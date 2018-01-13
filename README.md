@@ -1,3 +1,2 @@
 # hello-world
-Just lean how to use github
-hllo
+Creating a new branch is quick AND simple.
